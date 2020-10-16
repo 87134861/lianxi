@@ -1,0 +1,9 @@
+#字典 格式为 键： 值
+log:
+ {user: regan,age: 18}
+dl:
+ {user: regan1,age: 181}
+xh:
+ [1,2,3]
+
+
